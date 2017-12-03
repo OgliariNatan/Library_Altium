@@ -1,5 +1,8 @@
-# Prerequisites
+
 
 *.cmp
 *.ERR
+*.STEP
 History/*
+User Library-Arduino Nano 3_0/*
+__Previews/*
