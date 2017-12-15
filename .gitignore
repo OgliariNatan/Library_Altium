@@ -3,6 +3,9 @@
 *.cmp
 *.ERR
 *.STEP
+History/
 History/*
+User Library-Arduino Nano 3_0/
 User Library-Arduino Nano 3_0/*
+__Previews/
 __Previews/*
