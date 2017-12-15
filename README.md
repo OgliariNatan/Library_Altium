@@ -5,6 +5,7 @@ Biblioteca para o Altium, com modulos e componentes alguns em 3D. <br/>
 
 <h2> Modulos comportados pela biblioteca </h2>
 <p>
+ Para duvidas de como criar modulos/componentes, siga este tutorial do site <a href="https://www.embarcados.com.br/criando-componentes-no-altium/">Embarcados</a>
  <ul>
    <li> GY-GPS6Mv2 </li>
    <li> HC-05 Bluetooth </li>
